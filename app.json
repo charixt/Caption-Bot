@@ -18,28 +18,29 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5151958773:AAFJ3Ubc1z4NevikJsKUAPk8ET00K8ueiw8"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "8930597"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3da6018de73243793fcd455080747a84"
     },
     "CAPTION_TEXT": {
       "description": "Add your caption Defult will be [Markdown] [nothing]",
-      "value": "", 
+      "value": "💛¥🪨 ගල්කොරිය 🪨¥💛
+@GalkoriyeDainamait", 
       "required": false 
     },
     "CAPTION_POSITION": {
       "description": "Position of your caption [TOP, BOTTOM, NIL]",
-      "value": ""
+      "value": "BOTTOM"
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "Chari_x", 
       "required": false
     }        
     
