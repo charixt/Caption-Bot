@@ -40,7 +40,7 @@ __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
 __○ ᴄʀᴇᴀᴛᴏʀ :  @Chari_x
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/chari_x)**
+**[© Chari](https://t.me/chari_x)**
 """
 
       MARKDOWN_TEXT = """
